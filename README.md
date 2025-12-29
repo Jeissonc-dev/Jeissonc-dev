@@ -42,47 +42,6 @@
 
 <!--Intro end-->
 
----
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=jeisson-dev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 GitHub Streak"
-       alt="streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jeisson-dev&theme=dark&hide_border=false" />
-
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center"
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeisson-dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-
-</tr>
-</table>
-
-<!--- trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%"
-         src="https://github-profile-trophy.vercel.app/?username=jeisson-dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-  </a>
-</div>
-
-</p>
-<!--- stats & Trophy (end) -->
-
----
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
