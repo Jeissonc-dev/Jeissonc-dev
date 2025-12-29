@@ -105,13 +105,7 @@
   <a href="https://linkedin.com/in/jeisson">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="45"/>
   </a>
-  <a href="mailto:jeissoncollaguazo8@gmail.com">
-    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" width="45"/>
-  </a>
-  <a href="https://github.com/jeisson-dev">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" width="45"/>
-  </a>
-</p>
+  
 
 ---
 
