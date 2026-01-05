@@ -1,10 +1,36 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Jeisson Collaguazo</h1>
-<h3 align="center">Junior Backend Developer | Python & REST APIs</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Hi 👋, I'm Jeisson Collaguazo</h1>
+    </summary>
+  </ul>
+</div>
+
+<!-- snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jeissonc-dev/Jeissonc-dev/output/github-contribution-grid-snake.svg"
+       alt="snake animation" />
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        Junior Backend Developer | Python & REST APIs
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<!-- Intro -->
 <p align="center">
-Backend-focused developer with hands-on experience building REST APIs, authentication systems and database-driven applications using Python.
-Actively seeking my first remote junior backend developer role.
+Backend-focused developer with hands-on experience building REST APIs, authentication systems and database-driven applications using Python.<br>
+Actively seeking my first <b>remote junior backend developer</b> role.
 </p>
 
 ---
@@ -15,71 +41,57 @@ Actively seeking my first remote junior backend developer role.
 - Strong focus on **REST APIs, backend logic and data persistence**
 - Experience building **real, functional projects**, not just tutorials
 - Comfortable working with **relational databases** and backend architectures
-- Motivated to grow in **scalable and secure server-side systems**
-- Looking for **remote opportunities (entry-level / junior)**
+- Interested in **scalable and secure server-side systems**
+- Open to **remote opportunities (entry-level / junior)**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies That I Know 👨‍💻
 
-**Backend & Languages**
-- Python
-- PHP (basic)
-
-**Frameworks & Libraries**
-- Flask
-- Django
-- PyQt5
-
-**Databases**
-- MySQL
-- SQLite
-
-**Tools & Technologies**
-- Git & GitHub
-- Postman
-- Linux
-- VS Code
-- HTML, CSS, JavaScript (basic frontend support)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,flask,django,git,github,postman,mysql,sqlite,html,css,js,linux,vscode&perline=14" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 User Management REST API  
+### 🔐 User Management REST API
 **Python | Flask | MySQL | REST**
 
 - Designed and developed a **RESTful API for user management**, including user registration, authentication and full CRUD operations.
-- Implemented **secure authentication logic** and centralized access control to avoid duplicated logic across applications.
+- Implemented **secure authentication logic** and centralized access control.
 - Focused on clean API design, data persistence and separation of concerns.
 
 ---
 
-### 🏪 Inventory & Sales Management Desktop Application  
+### 🏪 Inventory & Sales Management Desktop Application
 **Python | PyQt5 | MySQL | XAMPP**
 
 - Built a **desktop application for small businesses** to manage inventory, clients, suppliers, sales and reports.
-- Integrated a **MySQL database** for persistent data storage and business logic.
+- Integrated a **MySQL database** for persistent data storage.
 - Implemented **user authentication and basic access control**.
-- Designed a **modular desktop architecture** with independent windows using PyQt5.
+- Modular desktop architecture with independent windows.
 
 ---
 
-### 🤖 University Information Chatbot (Academic Project)  
+### 🤖 University Information Chatbot (Academic Project)
 **Python | NLP (Spanish) | Console Application**
 
 - Developed a **console-based chatbot** to answer frequently asked questions about university enrollment processes.
 - Implemented **basic NLP techniques** using a free Spanish language model.
-- Improved access to academic information and reduced repetitive administrative queries.
+- Improved automated access to academic information.
 
 ---
 
-### 📝 Personal Blog Platform  
+### 📝 Personal Blog Platform
 **PHP | MySQL | Backend Web Development**
 
 - Developed a **personal blog platform** for content creation and management.
 - Implemented **CRUD operations** for posts using a relational database.
-- Project focused on strengthening backend web development fundamentals and database integration.
+- Focused on backend web development fundamentals.
 
 ---
 
@@ -94,21 +106,43 @@ I am currently seeking:
 - **Entry-Level Python Developer**
 - **Backend Trainee / Internship (Remote)**
 
-I am especially interested in roles where I can:
+I am interested in roles where I can:
 - Work with real backend systems
 - Learn from experienced developers
 - Contribute to production-ready applications
 
 ---
 
-## 📫 Contact & Links
+## 🤝 Connect With Me
 
-- 📧 Email: **jeissoncollaguazo8@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/jeisson
-- 💻 GitHub: https://github.com/jeisson-dev
+<p align="center">
+  <a href="https://linkedin.com/in/jeisson" target="blank">
+    <img align="center"
+         src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
+         height="50" width="50" />
+  </a>
+
+  <a href="mailto:jeissoncollaguazo8@gmail.com" target="blank">
+    <img align="center"
+         src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png"
+         height="50" width="50" />
+  </a>
+
+  <a href="https://github.com/jeisson-dev" target="blank">
+    <img align="center"
+         src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
+         height="50" width="50" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-Open to remote opportunities • Junior level • Backend-focused
-</p>
+<!--profile visit count-->
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=jeisson-dev&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
