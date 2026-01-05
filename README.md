@@ -1,102 +1,114 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Header -->
+<h1 align="center">Hi, I'm Jeisson Collaguazo</h1>
+<h3 align="center">Junior Backend Developer | Python & REST APIs</h3>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Jeisson Collaguazo</h1>
-    </summary>
-  </ul>
-</div>
-
-<!--- snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jeissonc-dev/Jeissonc-dev/output/github-contribution-grid-snake.svg"
-       alt="snake animation" />
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Backend Development with Python</h2>
-    </summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, REST APIs, MySQL, Desktop Applications**
-
-- 🌱 I’m currently learning **Flask, Django and API security best practices**
-
-- ☁️ Interested in **backend systems and scalable server-side applications**
-
-- 🧩 Experience developing **authentication modules, CRUD systems and database-driven apps**
-
-- 💬 Ask me about **Python, REST APIs, MySQL, PyQt5, backend logic**
-
-- 📫 Feel free to reach me at **jeissoncollaguazo8@gmail.com**
-
-- 💼 LinkedIn: [linkedin.com/in/jeisson](https://linkedin.com/in/jeisson)
-
-<!--Intro end-->
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Technologies That I Know 👨‍💻</h2>
-    </summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,flask,django,git,github,postman,mysql,sqlite,html,css,js,linux,vscode&perline=14" />
-  </a>
+Backend-focused developer with hands-on experience building REST APIs, authentication systems and database-driven applications using Python.
+Actively seeking my first remote junior backend developer role.
 </p>
 
 ---
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Connect With Me 🤝</h2>
-    </summary>
-  </ul>
-</div>
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/jeisson" target="blank">
-    <img align="center"
-         src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
-         height="50" width="50" />
-  </a>
-
-  <a href="mailto:jeissoncollaguazo8@gmail.com" target="blank">
-    <img align="center"
-         src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png"
-         height="50" width="50" />
-  </a>
-
-  <a href="https://github.com/jeisson-dev" target="blank">
-    <img align="center"
-         src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
-         height="50" width="50" />
-  </a>
-</p>
+- Junior Backend Developer specialized in **Python**
+- Strong focus on **REST APIs, backend logic and data persistence**
+- Experience building **real, functional projects**, not just tutorials
+- Comfortable working with **relational databases** and backend architectures
+- Motivated to grow in **scalable and secure server-side systems**
+- Looking for **remote opportunities (entry-level / junior)**
 
 ---
 
-<!--profile visit count-->
-<div align="center">
+## 🛠️ Technical Skills
 
-[![](https://visitcount.itsvg.in/api?id=jeisson-dev&icon=3&color=6)](https://visitcount.itsvg.in)
+**Backend & Languages**
+- Python
+- PHP (basic)
 
-</div>
+**Frameworks & Libraries**
+- Flask
+- Django
+- PyQt5
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Databases**
+- MySQL
+- SQLite
+
+**Tools & Technologies**
+- Git & GitHub
+- Postman
+- Linux
+- VS Code
+- HTML, CSS, JavaScript (basic frontend support)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 User Management REST API  
+**Python | Flask | MySQL | REST**
+
+- Designed and developed a **RESTful API for user management**, including user registration, authentication and full CRUD operations.
+- Implemented **secure authentication logic** and centralized access control to avoid duplicated logic across applications.
+- Focused on clean API design, data persistence and separation of concerns.
+
+---
+
+### 🏪 Inventory & Sales Management Desktop Application  
+**Python | PyQt5 | MySQL | XAMPP**
+
+- Built a **desktop application for small businesses** to manage inventory, clients, suppliers, sales and reports.
+- Integrated a **MySQL database** for persistent data storage and business logic.
+- Implemented **user authentication and basic access control**.
+- Designed a **modular desktop architecture** with independent windows using PyQt5.
+
+---
+
+### 🤖 University Information Chatbot (Academic Project)  
+**Python | NLP (Spanish) | Console Application**
+
+- Developed a **console-based chatbot** to answer frequently asked questions about university enrollment processes.
+- Implemented **basic NLP techniques** using a free Spanish language model.
+- Improved access to academic information and reduced repetitive administrative queries.
+
+---
+
+### 📝 Personal Blog Platform  
+**PHP | MySQL | Backend Web Development**
+
+- Developed a **personal blog platform** for content creation and management.
+- Implemented **CRUD operations** for posts using a relational database.
+- Project focused on strengthening backend web development fundamentals and database integration.
+
+---
+
+*(Each project includes source code and documentation in its repository.)*
+
+---
+
+## 🎯 Career Objective
+
+I am currently seeking:
+- **Junior Backend Developer (Remote)**
+- **Entry-Level Python Developer**
+- **Backend Trainee / Internship (Remote)**
+
+I am especially interested in roles where I can:
+- Work with real backend systems
+- Learn from experienced developers
+- Contribute to production-ready applications
+
+---
+
+## 📫 Contact & Links
+
+- 📧 Email: **jeissoncollaguazo8@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/jeisson
+- 💻 GitHub: https://github.com/jeisson-dev
+
+---
+
+<p align="center">
+Open to remote opportunities • Junior level • Backend-focused
+</p>
